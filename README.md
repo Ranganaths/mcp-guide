@@ -36,4 +36,3 @@ This guide represents a comprehensive compilation of MCP documentation, examples
 
 ---
 
-🤖 Generated with [Claude Code](https://claude.ai/code)

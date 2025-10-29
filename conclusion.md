@@ -69,6 +69,5 @@ All code examples are production-ready and can be adapted for your use cases.
 
 ---
 
-🤖 Generated with [Claude Code](https://claude.ai/code)
 
 © 2025 - Model Context Protocol Comprehensive Guide
