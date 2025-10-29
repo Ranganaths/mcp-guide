@@ -1,20 +1,8 @@
 title: "Model Context Protocol (MCP) Complete Guide"
 description: "A comprehensive technical guide to understanding and implementing the Model Context Protocol"
-author: "Ranganath S"
-theme: minima
 
 markdown: kramdown
 highlighter: rouge
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Navigation
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Chapters"
-    url: "/SUMMARY"
 
 # Build settings
 exclude:
@@ -23,8 +11,3 @@ exclude:
   - "*.html"
   - ".claude/"
   - "~$*"
-
-# Enable relative links for GitHub Pages
-relative_links:
-  enabled: true
-  collections: false

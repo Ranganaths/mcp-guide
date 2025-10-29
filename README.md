@@ -1,6 +1,6 @@
 # Model Context Protocol (MCP): A Comprehensive Technical Guide
 
-![MCP Logo](media/image2.svg)
+![MCP Logo](mcp-cover-page.svg)
 
 Welcome to the complete guide to the Model Context Protocol (MCP), an open-source standard introduced by Anthropic in November 2024 that revolutionizes how AI applications interact with external data sources, tools, and services.
 
